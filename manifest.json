@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+  
+    "name": "PROJECT DE JEFFESRN",
+    "description": "PROJETO EM DESENVOLVIMENTO",
+    "version": "1.0",
+  
+    "browser_action": {
+      "default_popup": "index.html"
+    },
+    "permissions": [
+      "activeTab",
+      "https://ajax.googleapis.com/"
+    ]
+  }
